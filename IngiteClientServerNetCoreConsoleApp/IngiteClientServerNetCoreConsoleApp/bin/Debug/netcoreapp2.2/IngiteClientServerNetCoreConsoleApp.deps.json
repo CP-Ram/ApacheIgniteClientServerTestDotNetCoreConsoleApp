@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "a511177909d34f6b01a6c25f292573cd2c26c85e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "IngiteClientServerNetCoreConsoleApp/1.0.0": {
+        "dependencies": {
+          "Apache.Ignite": "2.7.5",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "IngiteClientServerNetCoreConsoleApp.dll": {}
+        }
+      },
+      "Apache.Ignite/2.7.5": {
+        "runtime": {
+          "lib/net40/Apache.Ignite.Core.dll": {
+            "assemblyVersion": "2.7.5.38033",
+            "fileVersion": "2.7.5.38033"
+          },
+          "lib/net40/Apache.Ignite.exe": {
+            "assemblyVersion": "2.7.5.38033",
+            "fileVersion": "2.7.5.38033"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IngiteClientServerNetCoreConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.Ignite/2.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jNciNsSqwmHYKNshUOpsF3QSCfhfW8FIq6VDuU9Ro85JqWw9kmiFKJ7g5huM1NnEJUrV7U3guAwsHs4nF78d2A==",
+      "path": "apache.ignite/2.7.5",
+      "hashPath": "apache.ignite.2.7.5.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    }
+  }
+}
