@@ -1,5 +1,13 @@
+
 .NET CORE TEST APP
 -----------------------
+System Dependency:
+
+-Target Framework .NET CORE VERSION 2.2.103
+
+-Apache Ignite VERSION 2.7.5
+
+
 Step to produce issue:
  
  -Create disk cache store folder for example:D:\ignite
