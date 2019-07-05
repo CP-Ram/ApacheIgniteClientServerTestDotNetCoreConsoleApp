@@ -9,3 +9,5 @@ C:\Users\bizruntime-86\source\repos\IngiteClientServerNetCoreConsoleApp\IngiteCl
 C:\Users\bizruntime-86\source\repos\IngiteClientServerNetCoreConsoleApp\IngiteClientServerNetCoreConsoleApp\bin\Debug\netcoreapp2.2\IngiteClientServerNetCoreConsoleApp.pdb
 C:\Users\bizruntime-86\source\repos\IngiteClientServerNetCoreConsoleApp\IngiteClientServerNetCoreConsoleApp\obj\Debug\netcoreapp2.2\IngiteClientServerNetCoreConsoleApp.dll
 C:\Users\bizruntime-86\source\repos\IngiteClientServerNetCoreConsoleApp\IngiteClientServerNetCoreConsoleApp\obj\Debug\netcoreapp2.2\IngiteClientServerNetCoreConsoleApp.pdb
+C:\Users\bizruntime-86\source\repos\IngiteClientServerNetCoreConsoleApp\IngiteClientServerNetCoreConsoleApp\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\bizruntime-86\source\repos\IngiteClientServerNetCoreConsoleApp\IngiteClientServerNetCoreConsoleApp\obj\Debug\netcoreapp2.2\IngiteClientServerNetCoreConsoleApp.csproj.CopyComplete
